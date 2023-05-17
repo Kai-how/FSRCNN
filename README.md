@@ -5,8 +5,10 @@ Single image super-resolution (SR) aims at recovering a high-resolution image fr
 ![image](https://github.com/Kai-how/FSRCNN/blob/main/image/model.PNG)
 
 The following images demonstrate the difference between Bicubic interpolation and FSRCNN.
+Image1:
 ![image](https://github.com/Kai-how/FSRCNN/blob/main/image/tiger.PNG)
 
+Image2:
 ![image](https://github.com/Kai-how/FSRCNN/blob/main/image/zebra.PNG)
 
 Reference and code: https://github.com/yjn870/FSRCNN-pytorch
